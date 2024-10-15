@@ -1,5 +1,8 @@
 ### Olá eu sou Mauro Victor! 👋
 - 📫 Entre em contato comigo por: maurocarvalho745@gmail.com
+- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mf081&label=Profile%20views&color=0e75b6&style=flat" alt="mf081" />
+</p> -
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-victor-11298a256)
 
